@@ -102,12 +102,3 @@ let main argv =
     points
     |> printSierpinski imageSize detail;
     0
-
-
-
-
-
-
-    //reserve a string big enough. Take into account the \r\n per line too
-    //translate the triangle to the middle of the string such that the left-down vertex is x=max/y=max
-    //
